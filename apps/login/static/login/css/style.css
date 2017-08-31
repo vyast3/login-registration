@@ -1,0 +1,20 @@
+.form{
+    display :inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    margin-left:50px;
+}
+
+.form-group{
+    font-size:30px;
+    padding: 10px;
+}
+
+input{
+    height:30px;
+    width: 200px;
+}
+
+.messages{
+    color:red;
+}
